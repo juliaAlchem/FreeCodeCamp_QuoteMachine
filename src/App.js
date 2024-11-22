@@ -33,13 +33,13 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
+        <section id='quote-box'>
         <h1>Random Number: {randomNumber}</h1>
-        <p>
-        "{quote}"
-        </p>
-       <p>- {author}</p>
-       
-       <button onClick={() => {getRandomQuote()}}>Random Number</button>
+        <p id='text'>"{quote}"</p>
+        <p id='author'>- {author}</p>
+       <button id="new-quote" onClick={() => {getRandomQuote()}}>New Quote</button>
+       <a id='tweet-quote' href={`twitter.com/intent/tweet`} target="_blank">Tweet</a>
+       </section>
       </header>
     </div>
   );
