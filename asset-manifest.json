@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FreeCodeCamp_QuoteMachine/static/css/main.f6489f10.css",
+    "main.js": "/FreeCodeCamp_QuoteMachine/static/js/main.a186e0d7.js",
+    "static/js/453.b2eb9668.chunk.js": "/FreeCodeCamp_QuoteMachine/static/js/453.b2eb9668.chunk.js",
+    "index.html": "/FreeCodeCamp_QuoteMachine/index.html",
+    "main.f6489f10.css.map": "/FreeCodeCamp_QuoteMachine/static/css/main.f6489f10.css.map",
+    "main.a186e0d7.js.map": "/FreeCodeCamp_QuoteMachine/static/js/main.a186e0d7.js.map",
+    "453.b2eb9668.chunk.js.map": "/FreeCodeCamp_QuoteMachine/static/js/453.b2eb9668.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6489f10.css",
+    "static/js/main.a186e0d7.js"
+  ]
+}
